@@ -26,7 +26,7 @@ function App() {
       <div>
         <br />
       </div>
-      <SubmitButton>Submit</SubmitButton>
+      <SubmitButton>Submit Button</SubmitButton>
     </div>
   );
 }
