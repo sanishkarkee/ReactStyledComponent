@@ -44,7 +44,7 @@ function App() {
         <div>
           <br />
         </div>
-        <Darkbutton>Dark theme</Darkbutton>
+        <Darkbutton>Dark theme Button</Darkbutton>
       </div>
     </ThemeProvider>
   );
